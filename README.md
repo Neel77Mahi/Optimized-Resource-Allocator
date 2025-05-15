@@ -48,7 +48,8 @@ gcc main.c -o allocator
 ./allocator
 ```
 
-Sample Input/Output
+## 💻 Sample Input/Output
+
 Enter the number of requests: 3
 Request 1 demand: 20
 Request 2 demand: 10
@@ -63,11 +64,14 @@ Request 2 (demand 20) allocated to Server 1
 Request 3 (demand 10) allocated to Server 1
 Execution time: 0.000015 seconds
 
-Educational Value
-This project is ideal for students studying:
-Data Structures (sorting, greedy algorithms)
-Operating Systems (resource scheduling)
-Cloud Computing (load balancing)
-Systems Programming in C
+## Educational Value
 
-Neeladri Bandopadhyay
+This project is ideal for students studying:
+- Data Structures (sorting, greedy algorithms)
+- Operating Systems (resource scheduling)
+- Cloud Computing (load balancing)
+- Systems Programming in C
+
+---
+
+**Neeladri Bandopadhyay**
