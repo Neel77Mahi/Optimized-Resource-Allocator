@@ -41,12 +41,13 @@ This project implements an efficient **First-Fit Decreasing (FFD)** algorithm co
 ### Compile
 ```bash
 gcc main.c -o allocator
+```
 
 #### Run
-bash
-Copy
-Edit
+```bash
 ./allocator
+```
+
 Sample Input/Output
 Enter the number of requests: 3
 Request 1 demand: 20
