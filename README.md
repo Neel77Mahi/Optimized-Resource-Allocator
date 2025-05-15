@@ -48,21 +48,21 @@ gcc main.c -o allocator
 ./allocator
 ```
 
-## 💻 Sample Input/Output
+## Sample Input/Output
 
 Enter the number of requests: 3
 - Request 1 demand: 20
 - Request 2 demand: 10
 - Request 3 demand: 30
 
-- Enter the number of servers: 2
+Enter the number of servers: 2
 - Enter max capacity for Server 1: 40
 - Enter max capacity for Server 2: 30
 
 - Request 1 (demand 30) allocated to Server 2
 - Request 2 (demand 20) allocated to Server 1
 - Request 3 (demand 10) allocated to Server 1
-- Execution time: 0.000015 seconds
+Execution time: 0.000015 seconds
 
 ## Educational Value
 
