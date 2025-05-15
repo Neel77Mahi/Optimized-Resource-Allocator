@@ -59,9 +59,9 @@ Enter the number of servers: 2
 - Enter max capacity for Server 1: 40
 - Enter max capacity for Server 2: 30
 
-Request 1 (demand 30) allocated to Server 2
-Request 2 (demand 20) allocated to Server 1
-Request 3 (demand 10) allocated to Server 1
+- Request 1 (demand 30) allocated to Server 2
+- Request 2 (demand 20) allocated to Server 1
+- Request 3 (demand 10) allocated to Server 1
 Execution time: 0.000015 seconds
 
 ## Educational Value
