@@ -62,7 +62,7 @@ Enter the number of servers: 2
 - Request 1 (demand 30) allocated to Server 2
 - Request 2 (demand 20) allocated to Server 1
 - Request 3 (demand 10) allocated to Server 1
-Execution time: 0.000015 seconds
+- Execution time: 0.000015 seconds
 
 ## Educational Value
 
