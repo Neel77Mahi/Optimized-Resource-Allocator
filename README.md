@@ -42,7 +42,7 @@ This project implements an efficient **First-Fit Decreasing (FFD)** algorithm co
 ```bash
 gcc main.c -o allocator
 
-####Run
+#### Run
 bash
 Copy
 Edit
