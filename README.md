@@ -14,14 +14,6 @@ This project implements an efficient **First-Fit Decreasing (FFD)** algorithm co
 
 ---
 
-## Project Structure
-
- Resource-Allocator
-├── main.c # Main program logic
-├── README.md # Project description and usage instructions
-
----
-
 ## Algorithm Overview
 
 ### First-Fit Decreasing (FFD):
